@@ -87,8 +87,8 @@ The Agentic_RAG Crew is composed of multiple AI agents, each with unique roles, 
 
 ### Contact:
 If there is any confusion, you can reach out to me at 
-Email: vsahu@ucsd.edu
-LinkedIn: https://www.linkedin.com/in/vivekanand-sahu/
+Email: ssk8336@mavs.uta.edu
+LinkedIn: https://www.linkedin.com/in/sejallk/
 
 
 
