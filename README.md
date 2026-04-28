@@ -1,4 +1,4 @@
-# Agentic-AI-RAG Crew
+# Agentic-AI-RAG 
 
 ## IMPORTANT: Please note that the contents of this repository have been adapted to ensure compliance with confidentiality agreements.
 
